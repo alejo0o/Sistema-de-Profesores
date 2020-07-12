@@ -174,7 +174,7 @@ namespace ProyectoLP_ABA
             //▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
             if (usuarios.Length == 0)
             {
-                ManejoDeArchivos.AniadirLineaArchivo("datos\\usuarios.txt", "alejandro░0EAiLOtyIOF1pKRUr72kC/fKmocSMuyY+R7OO5PI7dNytmCzxUl7i3y57VasfAfVjQlrs4+daBaTs2te0B48ZwTusXhBQMu1DcY4mKOkSDp7Ev+FGS1A8yRpKDzE5bmq░AlejandroVivanco;11");
+                ManejoDeArchivos.AniadirLineaArchivo("datos\\usuarios.txt", "admin░MEt6JCRwQI2N9X6DEKQFzlwUEg23MofLpObDol9cNER9qflWHNcCH6eOin4zDMa6b6hebXwwdEvreAw0GgfrD9uGdlH4LEAhXWOiMu+26Dz65W5fD/dDhohBmrVnnucp░admin;67");
             }
             for (int i = 0; i < usuarios.Length; i++)
             {
