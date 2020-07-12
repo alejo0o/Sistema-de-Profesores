@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AFBE0D1F-F46E-4EEF-934D-673693AFE20C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoLP_ABA</RootNamespace>
+    <AssemblyName>ProyectoLP-ABA</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuraciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuraciones.Designer.cs">
+      <DependentUpon>Configuraciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdjuntarInvitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdjuntarInvitacion.Designer.cs">
+      <DependentUpon>FormAdjuntarInvitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte11.Designer.cs">
+      <DependentUpon>FormCoordinador_Parte11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte3.Designer.cs">
+      <DependentUpon>FormCoordinador_Parte3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte5.Designer.cs">
+      <DependentUpon>FormCoordinador_Parte5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte7.Designer.cs">
+      <DependentUpon>FormCoordinador_Parte7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordinador_Parte9.Designer.cs">
+      <DependentUpon>FormCoordinador_Parte9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte11.Designer.cs">
+      <DependentUpon>FormDocente_Parte11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte13.Designer.cs">
+      <DependentUpon>FormDocente_Parte13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte15.Designer.cs">
+      <DependentUpon>FormDocente_Parte15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte_7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte_7.Designer.cs">
+      <DependentUpon>FormDocente_Parte_7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte5.Designer.cs">
+      <DependentUpon>FormDocente_Parte5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte6.Designer.cs">
+      <DependentUpon>FormDocente_Parte6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Docente_Parte8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Docente_Parte8.Designer.cs">
+      <DependentUpon>Docente_Parte8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte9.Designer.cs">
+      <DependentUpon>FormDocente_Parte9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEscribirInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEscribirInfo.Designer.cs">
+      <DependentUpon>FormEscribirInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEscribirRecomen2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEscribirRecomen2.Designer.cs">
+      <DependentUpon>FormEscribirRecomen2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFuncionesPDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFuncionesPDF.Designer.cs">
+      <DependentUpon>FormFuncionesPDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoParalelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoParalelo.Designer.cs">
+      <DependentUpon>FormNuevoParalelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCoordinador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCoordinador.Designer.cs">
+      <DependentUpon>FormCoordinador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente.Designer.cs">
+      <DependentUpon>FormDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte10.Designer.cs">
+      <DependentUpon>FormDocente_Parte10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte12.Designer.cs">
+      <DependentUpon>FormDocente_Parte12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte14.Designer.cs">
+      <DependentUpon>FormDocente_Parte14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDocente_Parte16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte16.Designer.cs">
+      <DependentUpon>FormDocente_Parte16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditarUsuario.Designer.cs">
+      <DependentUpon>FormEditarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTemasNoTratados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTemasNoTratados.Designer.cs">
+      <DependentUpon>FormTemasNoTratados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerAsistencia.Designer.cs">
+      <DependentUpon>FormVerAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerDesarrolloS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerDesarrolloS.Designer.cs">
+      <DependentUpon>FormVerDesarrolloS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVerInfo.Designer.cs">
+      <DependentUpon>FormVerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoUsuario.Designer.cs">
+      <DependentUpon>NuevoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RevisionPM-C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RevisionPM-C.Designer.cs">
+      <DependentUpon>RevisionPM-C.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ingresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingresos.Designer.cs">
+      <DependentUpon>Ingresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FormDocente_Parte4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDocente_Parte4.Designer.cs">
+      <DependentUpon>FormDocente_Parte4.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Configuraciones.resx">
+      <DependentUpon>Configuraciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdjuntarInvitacion.resx">
+      <DependentUpon>FormAdjuntarInvitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordinador_Parte11.resx">
+      <DependentUpon>FormCoordinador_Parte11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordinador_Parte3.resx">
+      <DependentUpon>FormCoordinador_Parte3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordinador_Parte5.resx">
+      <DependentUpon>FormCoordinador_Parte5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordinador_Parte7.resx">
+      <DependentUpon>FormCoordinador_Parte7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordinador_Parte9.resx">
+      <DependentUpon>FormCoordinador_Parte9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte11.resx">
+      <DependentUpon>FormDocente_Parte11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte13.resx">
+      <DependentUpon>FormDocente_Parte13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte15.resx">
+      <DependentUpon>FormDocente_Parte15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte_7.resx">
+      <DependentUpon>FormDocente_Parte_7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte5.resx">
+      <DependentUpon>FormDocente_Parte5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte6.resx">
+      <DependentUpon>FormDocente_Parte6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Docente_Parte8.resx">
+      <DependentUpon>Docente_Parte8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte9.resx">
+      <DependentUpon>FormDocente_Parte9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEscribirInfo.resx">
+      <DependentUpon>FormEscribirInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEscribirRecomen2.resx">
+      <DependentUpon>FormEscribirRecomen2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFuncionesPDF.resx">
+      <DependentUpon>FormFuncionesPDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoParalelo.resx">
+      <DependentUpon>FormNuevoParalelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCoordinador.resx">
+      <DependentUpon>FormCoordinador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente.resx">
+      <DependentUpon>FormDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte10.resx">
+      <DependentUpon>FormDocente_Parte10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte12.resx">
+      <DependentUpon>FormDocente_Parte12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte14.resx">
+      <DependentUpon>FormDocente_Parte14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDocente_Parte16.resx">
+      <DependentUpon>FormDocente_Parte16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditarUsuario.resx">
+      <DependentUpon>FormEditarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTemasNoTratados.resx">
+      <DependentUpon>FormTemasNoTratados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerAsistencia.resx">
+      <DependentUpon>FormVerAsistencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerDesarrolloS.resx">
+      <DependentUpon>FormVerDesarrolloS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVerInfo.resx">
+      <DependentUpon>FormVerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoUsuario.resx">
+      <DependentUpon>NuevoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RevisionPM-C.resx">
+      <DependentUpon>RevisionPM-C.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingresos.resx">
+      <DependentUpon>Ingresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormDocente_Parte4.resx">
+      <DependentUpon>FormDocente_Parte4.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

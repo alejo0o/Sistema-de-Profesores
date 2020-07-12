@@ -1,0 +1,282 @@
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+C:\Users\Usuario\documents\visual studio 2017\Projects\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.dll
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.xml
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.Cache
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+C:\Users\Dell\source\repos\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormNuevoParalelo.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte3.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerAsistencia.resources
+C:\Users\Usuario\Desktop\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte5.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.xml
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte3.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte5.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormNuevoParalelo.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerAsistencia.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte_7.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirInfo.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte7.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirRecomen2.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte5.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte9.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerDesarrolloS.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte9.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormTemasNoTratados.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte11.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerInfo.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte11.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormAdjuntarInvitacion.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte13.resources
+C:\Users\Usuario\Desktop\ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte15.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.dll
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.xml
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojResolveAssemblyReference.cache
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormAdjuntarInvitacion.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte11.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte3.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte5.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte7.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte9.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte11.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte13.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte15.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte_7.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte5.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte9.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirInfo.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirRecomen2.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormNuevoParalelo.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormTemasNoTratados.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerAsistencia.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerDesarrolloS.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerInfo.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.Cache
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.CoreCompileInputs.cache
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+C:\Users\vivan\Desktop\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.dll
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.xml
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojAssemblyReference.cache
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormAdjuntarInvitacion.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte11.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte3.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte5.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte7.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte9.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte11.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte13.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte15.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte_7.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte5.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte9.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirInfo.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirRecomen2.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormNuevoParalelo.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormTemasNoTratados.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerAsistencia.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerDesarrolloS.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerInfo.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.cache
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.CopyComplete
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+D:\archivos viejos\ing en sistemas\4to semestre\aba proyecto\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe.config
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.exe
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\ProyectoLP-ABA.pdb
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.dll
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\itextsharp.xml
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csprojAssemblyReference.cache
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Configuraciones.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormAdjuntarInvitacion.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte11.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte3.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte5.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte7.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador_Parte9.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte11.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte13.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte15.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte_7.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte5.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte6.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Docente_Parte8.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte9.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirInfo.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEscribirRecomen2.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormFuncionesPDF.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormLogin.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormNuevoParalelo.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormPrincipal.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormCoordinador.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte10.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte12.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte14.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormDocente_Parte16.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormEditarUsuario.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormTemasNoTratados.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerAsistencia.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerDesarrolloS.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.FormVerInfo.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.NuevoUsuario.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.IngresoPM_D.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Ingresos.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.Properties.Resources.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP_ABA.SubirSy_D.resources
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.GenerateResource.cache
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.csproj.CopyComplete
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.exe
+D:\Ingenieria en Sistemas\7tmo semestre\PROYECTO ABA\ProyectoLP-ABA\ProyectoLP-ABA\obj\Debug\ProyectoLP-ABA.pdb
